@@ -1,0 +1,91 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    margin: 0 auto;
+}   
+#timetable{
+    border:1px solid white;
+    height: 500px;
+    width: 900px;
+    text-align: center;
+    border-collapse: collapse;
+}
+td{
+    border:1px solid white;
+    color: white;
+}
+th{
+    border:1px solid white;
+}
+
+#john0,#john1{
+    width: 120px;
+
+}
+
+
+#column1{
+ background: rgb(243, 242, 242);   
+}
+
+#primary0{
+    background-color: rgb(74, 35, 90)  ;
+}
+#john0{
+    background-color:rgb(33, 97, 140) ;
+}
+
+#john1{
+    background-color:rgb(21, 67, 96) ;
+}
+#explosion0{
+    background-color:rgb(151, 154, 154 );
+}
+#year-70{
+     background-color:rgb(72, 201, 176) ;
+}
+#wanton{
+    background-color: rgb(195, 155, 211);
+}
+#in1{
+    background-color:rgb(205, 97, 85 ) ;
+}
+#year-80{
+    background-color:rgb(26, 188, 156 ) ;
+}
+#jane0{
+    background-color: rgb(72, 201, 176) ;
+}
+#in2{
+    background-color: rgb(198,70,60);
+}
+#in3{
+    background-color: rgb(192, 57, 43);
+}
+#year-90{
+    background-color:rgb(52, 152, 219 ) ;
+}
+#special{
+    background-color:rgb(241, 196, 15) ;
+}
+#john2{
+    background-color: rgb(26, 188, 156 );
+}
+#primary1{
+    background-color: rgb(81, 46, 95);
+}
+#a{
+    background-color:rgb(241, 196, 15)  ;
+}
+#b{
+    background-color:rgb(242,176,16) ;
+}
+#c{
+    background-color:rgb(243, 156, 18) ;
+}
+#fish{
+    background-color: rgb(195, 155, 211) ;
+}
+#jane1{
+    background-color:rgb(26, 188, 156 ) ;
+}
